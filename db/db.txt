@@ -1,0 +1,60 @@
+user
+	id		int
+	name		varchar
+	pass		varchar
+
+brand
+	id
+	branname
+	logo
+
+category
+
+	id 
+	catname
+
+producimg
+	imgid
+	producid
+	img
+
+produccolor
+	idcolor
+	procducid
+	color
+
+product
+	product id
+	Category ID
+	brandid
+	colorid
+	ProductName
+	demo images
+	price
+	size
+	saddleHeight
+	cakeSize
+	engine
+	cc
+	wattage
+	Viscous
+	Gasoline
+	brake
+	Gear
+	Note
+
+oder
+	idoder
+	productid
+	name
+	sdt
+	email
+	diachi
+	soluong
+	mausac
+	ghichu
+
+	
+	
+	
+	
