@@ -46,7 +46,7 @@
                             <li><a href="contact.php">contact</a></li>
                         </ul>
                         <ul class="navbar_user">
-                            <li><a href="#"><i class="fa fa-search" aria-hidden="true"></i></a></li>
+                            <li><a href="find.php"><i class="fa fa-search" aria-hidden="true"></i></a></li>
                             <li><a href="/admin/"><i class="fa fa-user" aria-hidden="true"></i></a></li>
                             <li class="checkout">
                                 <a href="#">
