@@ -40,10 +40,10 @@
                     </div>
                     <nav class="navbar">
                         <ul class="navbar_menu">
-                            <li><a href="index.php">home</a></li>
+                            <li><a href="index.php">trang chu</a></li>
                             <li><a href="shop.php">shop</a></li>
-                            <li><a href="#">new</a></li>
-                            <li><a href="contact.php">contact</a></li>
+                            <li><a href="new.php">tin tuc</a></li>
+                            <li><a href="contact.php">lien he</a></li>
                         </ul>
                         <ul class="navbar_user">
                             <li><a href="find.php"><i class="fa fa-search" aria-hidden="true"></i></a></li>
@@ -51,7 +51,7 @@
                             <li class="checkout">
                                 <a href="#">
                                     <i class="fa fa-shopping-cart" aria-hidden="true"></i>
-                                    <span id="checkout_items" class="checkout_items">2</span>
+
                                 </a>
                             </li>
                         </ul>

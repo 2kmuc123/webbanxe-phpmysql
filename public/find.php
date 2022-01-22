@@ -29,7 +29,7 @@ if (isset($_GET["find"])) {
         <!-- navibar -->
         <?php include("./include/nav.php"); ?>
         <!-- find  -->
-        <div class="row mb-5" style="margin-top: 250px;">
+        <div class="row mb-5" style="margin-top: 170px;">
             <div class="col-lg-8 mx-auto">
                 <div class="bg-white p-5 rounded shadow">
                     <form action="find.php" method="get">
