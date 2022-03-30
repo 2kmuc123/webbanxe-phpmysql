@@ -1,2 +1,2 @@
 <?php
-header("location: /pjnhom/public/");
+header("location: /public/");
